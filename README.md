@@ -1,0 +1,1 @@
+This repository contains some simpler projects developed throughout the course using an STM32. These projects were not mandatory and were often used to support other projects, which were frequently analog in nature.
